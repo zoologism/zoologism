@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zoologism
-- 🐣 I'm a coding beginner
-- 💎 Mostly Ruby stuff, some Rails too.
-- 🐍 Python will be my next journey
+- 🐣 I'm learning Ruby, Rails and Python
 
 
 <!---
